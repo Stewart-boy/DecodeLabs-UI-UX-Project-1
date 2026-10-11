@@ -3,8 +3,7 @@ A foundational UX research deliverable focused on understanding a target user’
 
 This project was completed as Project 1 during my DecodeLabs UI/UX Design Internship Program, with a focus on user research, persona development, empathy mapping, and problem definition.
 
-🔗 View the full design board (Figma):
-https://www.figma.com/design/ljXQIgbyMKNj0sklyyVdhn/Decode-Labs?node-id=0-1&t=Aqx9knmbiDWB3ysf-1
+🔗 View the full design board (Figma) https://www.figma.com/design/ljXQIgbyMKNj0sklyyVdhn/Decode-Labs?node-id=0-1&t=x8l3XdgYlIF0Kcla-1
 
 🖼️ View the project image:https://github.com/Stewart-boy/DecodeLabs-UI-UX-Project-1/blob/2d5b185652af2bd7412392060c018a40300f1fd0/User%20Persona.png
 
